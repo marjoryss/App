@@ -1,13 +1,14 @@
-// Hello World!
-const mensagem = " Hello World "
-
+// arrays, objetos
+let meta = 
 {
-    const mensagem = "Hello Marjory 😉"
-    console.log(mensagem)
-
+    value: "ler um livro por mês",
+    checked: false,
+    log: (info) => {
+        console.log(info)
+    }
 }
 
-console.log("Hello World!");
-
+//meta.value = "não é mais ler um livro"
+meta.log(meta.value)   
 
 
