@@ -36,6 +36,10 @@ Operadores de atribuição de valores: = (ex: = não é apenas um sinal matemát
 Operador de contatenação: +
 Operadores de comparação: ==(igual) != (diferente) <= (menor igual) >= (maior igual) < (menor) > (maior)
 
+## Arrays
+Uma lista que contém qualquer tipo de dado
+Métodos de array: push, find, forEach
+Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ## Estrutura de repetição 
 
@@ -48,8 +52,14 @@ switch
 importação de módulos (require,Commom Js)
  NPM install + nome aplicação (modulo usado para instalar uma aplicação já pronta da biblioteca)
 Biblioteca inquirer para criar prompts interativos
+FS File System
 
 ## uso de funções assincrona e promises
 Uso das funções assíncronas (async/await)
 
+## JSON
+
+Javascript Object Notation (.json)
+JSON.parse(): transforma de JSON para JS
+JSON.stringify(): transforma de JS para JSON
 
