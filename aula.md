@@ -32,3 +32,20 @@ Function
 
 ## Operadores
 Operadores de atribuição de valores (ex: = não é apenas um sinal matemático, é um operador que atribui um valor á determinado código)
+
+## Estrutura de repetição 
+
+While (no while sempre tem que ter um return, porque senão ele vai ficar apenas executando a repetição sempre)
+
+## Condicionais
+switch
+
+## Módulos em Node JS:
+importação de módulos (require,Commom Js)
+ NPM install + nome aplicação (modulo usado para instalar uma aplicação já pronta da biblioteca)
+Biblioteca inquirer para criar prompts interativos
+
+## uso de funções assincrona e promises
+Uso das funções assíncronas (async/await)
+
+
