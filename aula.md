@@ -29,9 +29,13 @@ Constantes
 Strings: textos entre ""
 Number: 1,2,3... e 1.5
 Function
+boolean: true/false
 
 ## Operadores
-Operadores de atribuição de valores (ex: = não é apenas um sinal matemático, é um operador que atribui um valor á determinado código)
+Operadores de atribuição de valores: = (ex: = não é apenas um sinal matemático, é um operador que atribui um valor á determinado código)
+Operador de contatenação: +
+Operadores de comparação: ==(igual) != (diferente) <= (menor igual) >= (maior igual) < (menor) > (maior)
+
 
 ## Estrutura de repetição 
 
